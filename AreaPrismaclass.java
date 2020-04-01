@@ -7,13 +7,6 @@ public class AreaPrismaclass {
 	int baseTriangulo;
 	int alturaPrisma;
 
-	/**
-	 * Creacion de un contructor
-	 * 
-	 * @param no se le pasa parametros si no se le eestbalece un valor a los
-	 *           atributos diferentes cada vez que se inicializa
-	 *
-	 */
 	AreaPrismaclass() {
 
 		this.baseTriangulo = aleatorio();
