@@ -6,7 +6,7 @@ public class AreaPrismaclass {
 	// declaracion de los atributos del objeto
 	int baseTriangulo;
 	int alturaPrisma;
-
+int prueba;
 	/**
 	 * Creacion de un contructor
 	 * 
